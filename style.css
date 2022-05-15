@@ -1,0 +1,22 @@
+form{
+    display: flex;
+   margin-left: 570px;
+    width:50%;
+}
+table{
+    width: 50%;
+    text-align: left;
+}
+th{
+    font-size: 15px;
+}
+.mniu{
+    padding-right: 20px;
+}
+.gender{
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
+
